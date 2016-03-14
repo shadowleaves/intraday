@@ -1,46 +1,33 @@
 Ticker,Name,Source,Country,Currency,Volume,Open Interest
-IOE1 Comdty,Generic 1st 'IOE' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,10
-RBT1 Comdty,Generic 1st 'RBT' Future,#N/A Field Not Applicable,CN,CNY,60,1620
-CU1 Comdty,Generic 1st 'CU' Future,#N/A Field Not Applicable,CN,CNY,70,35380
-AA1 Comdty,Generic 1st 'AA' Future,#N/A Field Not Applicable,CN,CNY,210,50270
-POL1 Comdty,Generic 1st 'POL' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-CKC1 Comdty,Generic 1st of 'CKC',#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-RT1 Comdty,Generic 1st 'RT' Future,#N/A Field Not Applicable,CN,CNY,38,1702
-ZNA1 Comdty,Generic 1st 'ZNA' Future,#N/A Field Not Applicable,CN,CNY,250,28510
-AUA1 Comdty,Generic 1st 'AUA' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-PYL1 Comdty,Generic 1st 'PYL' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-CB1 Comdty,Generic 1st 'CB' Future,#N/A Field Not Applicable,CN,CNY,1372,4064
-AC1 Comdty,Generic 1st 'AC' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,298
-PAL1 Comdty,Generic 1st 'PAL' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-TRC1 Comdty,Generic 1st 'TRC' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,2
-AE1 Comdty,Generic 1st 'AE' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-VV1 Comdty,Generic 1st 'VV' Future,#N/A Field Not Applicable,CN,CNY,48,1432
-PVC1 Comdty,Generic 1st 'PVC' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-PBL1 Comdty,Generic 1st 'PBL' Future,#N/A Field Not Applicable,CN,CNY,30,5690
-BIT1 Comdty,Generic 1st 'BIT' Future,#N/A Field Not Applicable,CN,CNY,4,6
-AK1 Comdty,Generic 1st 'AK' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,1068
-ZRO1 Comdty,Generic 1st 'ZRO' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-SAI1 Comdty,Generic 1st 'SAI' Future,#N/A Field Not Applicable,CN,CNY,60,16064
-SH1 Comdty,Generic 1st 'SH' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-ROC1 Comdty,Generic 1st 'ROC',#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-XII1 Comdty,Generic 1st XII future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,2844
-ZRR1 Comdty,Generic 1st 'ZRR' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,3682
-FGL1 Comdty,Generic '1st' FGL Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,2
-XOO1 Comdty,Generic 1st 'XOO' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-KEE1 Comdty,Generic 1st of 'KEE',#N/A Field Not Applicable,CN,CNY,#N/A N/A,20
-DCS1 Comdty,Generic 1st 'DCS' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,36
-IRE1 Comdty,Generic 1st 'IRE' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-IMR1 Comdty,Generic 1st 'IMR' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-IRI1 Comdty,Generic 1st 'IRI' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-FO1 Comdty,Generic 1st 'FO' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,2
-WRT1 Comdty,Generic 1st 'WRT' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-FRE1 Comdty,Generic 1st ' FRE' Futur,#N/A Field Not Applicable,CN,CNY,#N/A N/A,20
-IRL1 Comdty,Generic 1st 'IRL' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-RVW1 Comdty,Generic 1st 'RVW',#N/A Field Not Applicable,HK,CNY,#N/A N/A,5
-RFL1 Comdty,Generic 1st 'RFL',#N/A Field Not Applicable,HK,CNY,#N/A N/A,0
-BLC1 Comdty,Generic 1st 'BLC' Future,#N/A Field Not Applicable,CN,CNY,#N/A N/A,0
-RAL1 Comdty,Generic 1st 'RAL',#N/A Field Not Applicable,HK,CNY,2,51
-RPL1 Comdty,Generic 1st 'RPL',#N/A Field Not Applicable,HK,CNY,#N/A N/A,6
-RUC1 Comdty,Generic 1st 'RUC',#N/A Field Not Applicable,HK,CNY,#N/A N/A,5
-RVC1 Comdty,Generic 1st 'RVC',#N/A Field Not Applicable,HK,CNY,#N/A N/A,0
-,,,,,,
+RBT1 Comdty,Generic 1st 'RBT' Future,Deformed Bar Fut  Mar16,CN,CNY,2289852,1747750
+PYL1 Comdty,Generic 1st 'PYL' Future,Polypropylene     Mar16,CN,CNY,1992794,426880
+IOE1 Comdty,Generic 1st 'IOE' Future,DCE Iron Ore Fut  Mar16,CN,CNY,1039020,1219444
+BIT1 Comdty,Generic 1st 'BIT' Future,Bitumen Future    Mar16,CN,CNY,954312,831258
+POL1 Comdty,Generic 1st 'POL' Future,Polyethylene Fut  Mar16,CN,CNY,838778,460310
+AC1 Comdty,Generic 1st 'AC' Future,CORN              Mar16,CN,CNY,580736,982476
+DCS1 Comdty,Generic 1st 'DCS' Future,DCE Corn Starch   Mar16,CN,CNY,499836,285668
+CB1 Comdty,Generic 1st 'CB' Future,SUGAR WHITE       Mar16,CN,CNY,439014,993704
+AUA1 Comdty,Generic 1st 'AUA' Future,Gold Future       Mar16,CN,CNY,381624,320852
+AE1 Comdty,Generic 1st 'AE' Future,SOY MEAL          Mar16,CN,CNY,359574,1869454
+PAL1 Comdty,Generic 1st 'PAL' Future,Palm Oil Future   Mar16,CN,CNY,320254,433974
+SH1 Comdty,Generic 1st 'SH' Future,SOYBEAN OIL       Mar16,CN,CNY,319162,820176
+ZRR1 Comdty,Generic 1st 'ZRR' Future,Rapeseed Meal     Mar16,CN,CNY,301292,389182
+SAI1 Comdty,Generic 1st 'SAI' Future,Silver Future     Mar16,CN,CNY,275508,623478
+XII1 Comdty,Generic 1st XII future,Nickel Futures    Mar16,CN,CNY,259632,403172
+ZNA1 Comdty,Generic 1st 'ZNA' Future,ZINC FUT (SHFE)   Mar16,CN,CNY,175882,178810
+CU1 Comdty,Generic 1st 'CU' Future,COPPER FUT (SHFE) Mar16,CN,CNY,174716,268840
+RT1 Comdty,Generic 1st 'RT' Future,RUBBER FUT (SHFE) Mar16,CN,CNY,138034,198572
+CKC1 Comdty,Generic 1st of 'CKC',Coking Coal Futur Mar16,CN,CNY,135340,122480
+TRC1 Comdty,Generic 1st 'TRC' Future,Thermal Coal      Apr16,CN,CNY,125768,97828
+VV1 Comdty,Generic 1st 'VV' Future,COTTON NO.1  ZCE  Mar16,CN,CNY,103972,622194
+KEE1 Comdty,Generic 1st of 'KEE',Coke Futures      Mar16,CN,CNY,92298,118152
+ROC1 Comdty,Generic 1st 'ROC',Hot-rolled Coil   Mar16,CN,CNY,69366,150828
+FGL1 Comdty,Generic '1st' FGL Future,Glass Futures     Mar16,CN,CNY,54760,160366
+AA1 Comdty,Generic 1st 'AA' Future,ALUMINUM FUT      Mar16,CN,CNY,41098,236422
+ZRO1 Comdty,Generic 1st 'ZRO' Future,Rapeseed Oil Fut  Mar16,CN,CNY,27674,153230
+XOO1 Comdty,Generic 1st 'XOO' Future,Tin Futures       Mar16,CN,CNY,23186,16440
+AK1 Comdty,Generic 1st 'AK' Future,NO.1 SOYBEAN      Mar16,CN,CNY,17934,79268
+PVC1 Comdty,Generic 1st 'PVC' Future,PVC Future        Mar16,CN,CNY,13596,46516
+PBL1 Comdty,Generic 1st 'PBL' Future,LEAD FUTURE       Mar16,CN,CNY,2594,19018
+IRE1 Comdty,Generic 1st 'IRE' Future,Ferrosilicon      Mar16,CN,CNY,1162,502
+IMR1 Comdty,Generic 1st 'IMR' Future,Manganese Silicon Mar16,CN,CNY,680,1386
